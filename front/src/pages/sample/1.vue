@@ -8,7 +8,7 @@
 
       <div v-if="index === 0">
         <div class="scroll-hint" :class="{ hide: launchScroll }">
-          <p class="bounce text-white text-xl">スクロールしてください</p>
+          <p class="bounce text-black text-xl">スクロール！！！</p>
         </div>
       </div>
 
