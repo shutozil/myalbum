@@ -36,7 +36,7 @@ PREFIX = "sample/"
 CREDENTIALS_PATH = "credentials/private_key.pem"
 
 EXPIRE_DATE_FOR_MINUTES = 60
-EXPIRE_DATE_FOR_DAYS = 2
+EXPIRE_DATE_FOR_DAYS = 60
 
 
 def get_s3_directory_structure() -> dict[str, str]:
