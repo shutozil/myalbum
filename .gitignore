@@ -1,0 +1,7 @@
+.env
+*.pem
+
+.vscode/settings.json
+draft.md
+server/data/*
+!server/data/.keep

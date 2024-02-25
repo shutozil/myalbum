@@ -1,0 +1,52 @@
+<div class="loader"></div>
+<style>
+  :root {
+    --loading-color: blue;
+    --loading-sub-color: #ffffff;
+    --loading-size: 80px;
+    --loading-border-width: 6px;
+    --loading-speed: 1.5s;
+  }
+
+  .loader {
+    position: fixed;
+    top: calc(50% - var(--loading-size) / 2);
+    left: calc(50% - var(--loading-size) / 2);
+    z-index: 1031;
+    width: var(--loading-size);
+    height: var(--loading-size);
+    box-sizing: border-box;
+    border: solid var(--loading-border-width) transparent;
+    border-top-color: var(--loading-color);
+    border-left-color: var(--loading-color);
+    border-bottom-color: var(--loading-color);
+    border-right-color: var(--loading-sub-color);
+    border-radius: 50%;
+    -webkit-animation: loading var(--loading-speed) linear infinite;
+    animation: loading var(--loading-speed) linear infinite;
+  }
+
+  @-webkit-keyframes loading {
+    0% {
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+
+    100% {
+      -webkit-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes load8 {
+    0% {
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+
+    100% {
+      -webkit-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+</style>

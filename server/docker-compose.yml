@@ -1,0 +1,13 @@
+version: '3'
+services:
+  server:
+    build: .
+    tty: true
+    container_name: sign-url-manager
+    volumes:
+      - .:/project
+    env_file:
+      - .env
+
+volumes:
+  app:

@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-text {
+  font-size: 60px;
+  fill: #fff;
+}
+
+.next-page {
+  position: fixed;
+  bottom: 100px;
+  left: 50%;
+  transform: translateX(-50%);
+  transition:
+    opacity 0.3s ease,
+    bottom 0.5s ease-in-out;
+}
+
+.next-page.hide {
+  opacity: 0;
+}
+
+.scroll-hint {
+  position: fixed;
+  bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 1;
+  transition:
+    opacity 0.3s ease,
+    bottom 0.5s ease-in-out;
+}
+
+.scroll-hint.hide {
+  opacity: 0;
+}
+
+.bounce {
+  bottom: 50px;
+  animation: bounce 1.5s infinite;
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-50px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}

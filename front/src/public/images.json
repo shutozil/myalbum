@@ -1,0 +1,70 @@
+{
+  "sample1": [
+    {
+      "sign_url": "https://d3v28qthkz3vv.cloudfront.net/sample/sample1/image2.png?Expires=1709025107&Signature=lFdLIdxlpRpxXU5UpEfbvIlaRtVmrBKRn54mnsrTydOyaWD~ekiPuskLPdNZ113S5w1WmpeMxWnv9arlLdDGiKpl61Zrv~FhTWgLFFAqfa3sbeCRqjou8SGZ8wexa3COhKjutYdsJa2OsyUYjQGSOIsRiyt0RfwmUIAqgCCiGoCratmXys0e~Mf0odF4PovqkHwQ6wT7BLGLGMlY0bXy8kJimfkKCTECupyFNzgS1x1u75RW2P3TcenKORzh5rkHs~QMrUUEEBn3~3VZm9iHM2L6QSxBXz5wH1YBofXviEi02nWj0QvBETCOenMbnIx0Z08cNi86K3rIP3pjSE96KA__&Key-Pair-Id=K3GF962E52DKMA",
+      "comment": "Zm9vYmFy"
+    },
+    {
+      "sign_url": "https://d3v28qthkz3vv.cloudfront.net/sample/sample1/image4.png?Expires=1709025107&Signature=hKwyL136OhHjAUqCVEksxxNxtY470ihNeqSegJM5hi5WSu~4SWNBJOnM4p9X-kveL5MfVUVWXZx8gsdNYAYeu~k~1PuRHya-LANXfItL4rvMp5Omicl~QR~ZNVKR0fEIjLElpMPSPsusq24dt3KxfdT1udbkP888F8NCw0gy1-WyD~wcWtDOkVgmFf1Z5Z67hL4UMwPPwyu71PdraDKUiDcXY5D~SQEWSMr8IT~dCn5JLau1-jRFoROUffUzfUFxCz17mvgbh890p-L6SjCPZ~W3CZcAvdEdfzJ4o9AzZQunV1vuYK28YZY7j6qmg1qExrPSKFl5rpTtsUz8Sv~cuQ__&Key-Pair-Id=K3GF962E52DKMA",
+      "comment": "aG9nZWhvZ2U="
+    }
+  ],
+  "sample2": [
+    {
+      "sign_url": "https://d3v28qthkz3vv.cloudfront.net/sample/sample2/image1.png?Expires=1709025107&Signature=PXckCKSdFNabiLf0CXWOR0kkVmnzEur4bp5tjRtfKiQJeLQTPR9nEiQSFngV~KfDE9UUrMSkHUxUUM2crtAEvdBJiYaiWs5Z62v2zUzJ2bCz~MQ7LErRbWs2sTAeUWgb5Vej5rnFJVGtBderihRUsyJkrPaQCIbNOpZi-5Uq0mbvuIfXLKHqWtI59eEELH~KDDaTn-BZ1dhRYoWtjFaK-Zfatic~FWDjvmYAMVyFCWBM72QSKkEYkY9iOXRTd-gP4osmJxYN3QDCDeHHh0Qn6MOXepW5yC6fQ6oufPtegDl4c99sxuS4HCfDzmT50pTyyYTgdOwLI4Q35GpMpMWi~w__&Key-Pair-Id=K3GF962E52DKMA",
+      "comment": "aGVsbG8gd29ybGQ="
+    },
+    {
+      "sign_url": "https://d3v28qthkz3vv.cloudfront.net/sample/sample2/image5.png?Expires=1709025107&Signature=j~l1QufueHSOUl0Hk8im9eadT7n2m5B1aF82Pca0fILFkrOVFeWRsttj9BwsnAs6nY-YZCITa0PQhVaLDn5WB~mJH0QtDsePGxvPDiQ6PipPtO0HFaIeK7ATdZ3v5~gcK50E6X1hq0tnZ54s2-eb8WjOphhC3gdDI59Or4ld5wXRVDrN5jq09VtUTJs8n0eaXS4WSKUZ4t-4Fdquwt-xlquZrkGATgKzygxYgJaa88qHLRpMT7p3vniGtTWBlBvzNKNLgEhSV5V6TkI2hULkn4nUFEJE9TXFLjkda2darSIJ8udfzIzDZpA2uQCQ6XkYoPIvkuGIM8jMOspXF5CAYw__&Key-Pair-Id=K3GF962E52DKMA",
+      "comment": "44GT44KT44Gr44Gh44Gv"
+    }
+  ],
+  "sample3": [
+    {
+      "sign_url": "https://d3v28qthkz3vv.cloudfront.net/sample/sample3/image2.png?Expires=1709025107&Signature=DByr6prTs30KwSlnbh6paesbuz8M790gSs6oT4hLOoHYr7O6KYpwMnlmvlMF~SldxbxpM5HCulv3XBgt623RERD8fvo8f4O00jQvw0E1MwvLEN7KMIXpInx~hJehC8XLCgNZHMxImG0Hz6abZrLQXUJqJaoqU1O0eGsnrhUX7KhBUcaxQd05VHrhtpab7Qw29PTjMMGqdpLKz8wYVGxNgpn3uEEbbNKfgsTpZ8tyfxqDoskKz18tM6LlcGRSOG56lyXVbKWFNFRvzFCX~va4g4YB2gWN6MTVYvVFqAwRAxy6oZ3XnBxwSHjHMO3d6YSnqpCzavug-6VJiquylHZ0OQ__&Key-Pair-Id=K3GF962E52DKMA",
+      "comment": "44GT44KT44Gr44Gh44Gv44O744GK44Gv44KI44GG"
+    },
+    {
+      "sign_url": "https://d3v28qthkz3vv.cloudfront.net/sample/sample3/image3.png?Expires=1709025107&Signature=KG9DC0K7WnI~Z~QSdEtI1n~CfYrILKnavZPcC3CY0eTEPQFgSDuTdk6WjRWJT~xSG~zMBhMVtzekSQEi2GwDSEjvcfKCog70sYZINsAzz14iZ~i4VOAIHfNcq7NQ2Rsu7OZcnFtYCirKmEIC8vtoK09~II2x8J6mfGuD51M-2JScZGfDadE5B5~10aP-UtulGsKahwr2iYJtpENUIPPM4EZ-HRFYlahk~2RVU-S9mM~4Qx4G1xtne7GUMtgovZIc-jhEosDckubrJgE8S3P89Z53cV5gbEHmi~G4eP2t3a4GS7a63x~VVfAKQZGsTFWLhoQfz1khZWHu1c0K09frzg__&Key-Pair-Id=K3GF962E52DKMA",
+      "comment": "Zm9vYmFy"
+    }
+  ],
+  "sample4": [
+    {
+      "sign_url": "https://d3v28qthkz3vv.cloudfront.net/sample/sample4/image3.png?Expires=1709025107&Signature=C83qvDjQNmLYORfiwAO6bfts7-XmNQGq1UBAV4wP3Vo-x6OsXuCNPrSLjRMs5vbNyawe348lLJy~K7N9kl8VnhV4ZOeljwv5hj45nx7Tao4w3eYZlFkmagFL2QHFkvQaMgVIUJCwzFg8AZGnPR2bb5wLr79VcBvQaAVXI1KnkLf-CySGmu9~01grSjzm5yXxI4VIjj5QH7PYVRb1mKbF37mGviPU2MO234XJ5Gg5xmQc~stiepBKVPTS2ETqMC2kBuwF2Cdt4US-Bu0sBIqpz9j0yYFVFB1oAk2aVtBUv~SE3IKqalBJ4EyhuKsC4Umz0bq-4Cv~sx5gDM8MaeZAcQ__&Key-Pair-Id=K3GF962E52DKMA",
+      "comment": "Zm9vYmFy"
+    },
+    {
+      "sign_url": "https://d3v28qthkz3vv.cloudfront.net/sample/sample4/image4.png?Expires=1709025107&Signature=CXKtxGlfYjF3Uh6jb-CJyWhQPzwoi9~9Pok~i3BmClycg6WZZiuCgvtG436R5KtPPu1ehJk5VOYANoH9guck8MTO1UDsdE7dYmcYDaw1OscvNyT7duEPkw2uXOqd1iY7G2gMf89QH9d9yXDpgSADvdVwfmZSL3FflpWdVqB8LRNusQ1O0w2z8KMd3v~Ftkw2wRodAfO8v9DUgUsTDK2SIeJZ4sdkbxoxtaDBScqJ1juAAOzQOlq9g1zH7fwiO98JHhubmGGzkzmNt~bXYfdWm7TbnnvUZGZwSZaP83OgL4rpf8vU7gk2KTjKjQ-eBMOvqgajB6aWNF75UTSme9akoA__&Key-Pair-Id=K3GF962E52DKMA",
+      "comment": "44GT44KT44Gr44Gh44Gv44O744GK44Gv44KI44GG"
+    },
+    {
+      "sign_url": "https://d3v28qthkz3vv.cloudfront.net/sample/sample4/image5.png?Expires=1709025107&Signature=dpHDguWZPw94WxucOPwuomzujWHXyF6sAcQO5wdWPv7f4NR7eNxzYzBuwjakD-LvpwG4N2aXpWvQiphcHaSqTz-T5frPxI6rhFj1X3HjKEpAmQYoBeVyLI2BOD9hRj0eKRwRqoJgFhnYqmQvB4cn24HtOnS4iKYjQDa-VtnifXoqN8jrn1cUAEVbinfDGO011C8Tc17MdMeNu1nBl9CHn2KWafRBfNdDCEotn~6RB-Lwlc0uC7WFrwNxjEvJyxy6ALOCMgEJ5RrtM1WWTTS~DYuuDj3JIGy2ynKH1bjcLTLZaO4c6EQD3ZscAGP1hfKVyOH0q9DaYBICzkW-L0IXcQ__&Key-Pair-Id=K3GF962E52DKMA",
+      "comment": "aG9nZWhvZ2U="
+    }
+  ],
+  "sample5": [
+    {
+      "sign_url": "https://d3v28qthkz3vv.cloudfront.net/sample/sample5/image2.png?Expires=1709025107&Signature=CdJfvHLpLKzKD7I-sltKMrandzEtR-GuHcTQOeEcG~ZCNPKYNmbgnyFwHxqwvAzxHEeJq79QLzYmI3LtAft03ynKCl7MeNoPVj585RnjnM7pdrrIVJyP5u-imQpXDAaex0CDD1ExWFetJbuwMeSR3lGds5-8-7RQmfGFXoISjqHw8~Xh0JvT9a~z4hNYPwAkHOYvF~k73TUmwnPXZzXvbBcpV1ID9pJ9dzS71SzTzeLv5FSV3l2zo6GJz5nh0Vj2uPF9W8EDTy652CVwmV54LsPURIcYZJwtbULQfBIsWYApk~nDgQgbXVsuWS6YJDt0eeYS5AcX2iOmdOozG3NQYA__&Key-Pair-Id=K3GF962E52DKMA",
+      "comment": "44OP44Ot44O844Ov44O844Or44OJ"
+    },
+    {
+      "sign_url": "https://d3v28qthkz3vv.cloudfront.net/sample/sample5/image3.png?Expires=1709025107&Signature=HySAI1iPDaQXtPBFeGIoZ5XPgGGidk6d~Z72oJKlaSX-vRxEK3n40TV8kuwlhkBQTR0XL8PqtJKwHe7tIX9ME2eSTkrepq33w5Q66gjrASHS9xvwS49hRReVZRRWqTh6W0uGwxJZyGh34HMexPbTFhg4MIHPufJnqIy9elSLkig9QORO6pW9GkgzuY~zCz-DNmrwdDQYW7gEbZOaCTq6fuGw1hMaMMQTT2rjyrTSUS-vBWTcpn4826t6MmoALeV4DroKJD87dbRtPjYduJ2cdloN1f9fzahHGuZr~FuN6Uotx7ye3uyaJq~4cdB8nMTwm2DFT~ZUfkoSVjP9T-Q5pQ__&Key-Pair-Id=K3GF962E52DKMA",
+      "comment": "44KI44GG44GT44Gd"
+    },
+    {
+      "sign_url": "https://d3v28qthkz3vv.cloudfront.net/sample/sample5/image4.png?Expires=1709025107&Signature=HEQsNnyBXLSCGflysrLpAWkBq7PFB1hRQsVyp3VW8viMzuaiKBS7exrsqLh6jXj3JR5SQA7tKUeBdL5G9Kb1Ff-eAnDGFqyJli-ZC4rSLt67oI5GkOEXbZQ9M36ckVwMcHDhKFwomt22g-EndsYnOOCAKUy5wwPMvATfAei~ClKuoRvLLLOQOZGmyiAR2dOvBKIlLCMdYuXabEutHTxjtCWM1vAxybxtb9Y1zs-uZ4qlvzLxtDNw0Yzl2e3SoOF06IsDYdB3apMKDubr9y7IwBFJN04lquFmUesOsQnoqoaiu5YkUidSIgECTi8ZiF3b~EIeyTOP28qls39jGvZcJQ__&Key-Pair-Id=K3GF962E52DKMA",
+      "comment": "44Km44Kn44Or44Kr44Og"
+    }
+  ],
+  "welcome": [
+    {
+      "sign_url": "https://d3v28qthkz3vv.cloudfront.net/sample/welcome/image1.png?Expires=1709025107&Signature=DT69WS2f4UMYT2JYbZ2f1EFvUrChaw-HlJS~hKJnEzaG1NArhQIHo9Nn11wJC00NaWMehAWZiuDYp6JA0yJ2dTjKfrPnWr0W83832BuO9cCcvAMIujas0E85hUnamkz1rHLBR2WpTVylTiOvobCpzJAv1G21qgWuvetNmEG5ukJXnr5sBauRWgd1Xl~skb2GrQaLV3jetWr5qgx1WvRx1C3ehuXBs-GtiF4bscfK8gVfxgrBxyJwoiI134NpIL13E6WzDkDCVrffB6eFHW4Q8fkftHMtITHZ2GYQuo5AXkYKk9jnL3iYChBzSrOp-d4UnekVtBtBrqQvSiWobOmyOA__&Key-Pair-Id=K3GF962E52DKMA",
+      "comment": ""
+    },
+    {
+      "sign_url": "https://d3v28qthkz3vv.cloudfront.net/sample/welcome/image2.png?Expires=1709025107&Signature=iMhym7CjmtIZ7MsvOCTPSOAk4TDk7fkTADsuaj6wwpK-a2pntFWTwGyn-PdeDhxkzAiME6vB4d68LaGMWqoEp1m0ULmkYTqUtyWGdQF8GjKFx~ZTGiJjUxobiYRj5xkL4PXZ7xF0sY0UUGFQa3iQkCPRteQHv1zrg14LEUoEst0JvSxFQ~hQt17U91qkJQA4vhhDTXIW3-LkvEhNIZzShFnTl4YyhP28kCfScj97wTkal4coEzfKVG40pgVg7w6XPBA3j8BDW4hAOv6ztWLbz-80eDz0UBxyWiKSgXblmVSsA4EH3ZvjKo6aqmGbwAW6dGNd-y0Rzp9XxK4-hbSyTw__&Key-Pair-Id=K3GF962E52DKMA",
+      "comment": ""
+    }
+  ]
+}
